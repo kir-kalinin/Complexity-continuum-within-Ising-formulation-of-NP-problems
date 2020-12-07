@@ -8,9 +8,9 @@ The implemented Ising models include:
 - the Mobius ladder graphs,
 - the rewired Mobius ladder graphs.
 
-The available distributions for the interaction strengths are unweighted, bimodal, and Gaussian.
+The interaction strengths can be taken from the unweighted, bimodal, and Gaussian distributions.
 
-The methods for solving the Ising model include:
+The available methods for solving the Ising model are:
 - the exact commercial solver Gurobi (the free academic license is available at 
 [Gurobi website](https://www.gurobi.com/downloads/?campaignid=2027425879&adgroupid=77414946451&creative=375332431098&keyword=gurobi%20academic%20license&matchtype=e&gclid=CjwKCAiAwrf-BRA9EiwAUWwKXkrNUZk9swkN-tmC-Z8gehq6tk7qrXMBcspOUDl2B2Lv5drmtF099BoCZFIQAvD_BwE)),
 - the Hopfield-Tank neural networks (implemented in python and accelerated with numba).
