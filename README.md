@@ -2,7 +2,7 @@
 
 The minimisation of the Ising Hamiltonian for sparse and dense interaction matrices with exact and physics-inspired algorithms. 
 
-The implemented Ising models include: 
+The implemented interaction models include: 
 - the Sherrington-Kirkpatrick, 
 - the 3-regular maximum cut, 
 - the Mobius ladder graphs,
