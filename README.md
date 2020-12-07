@@ -8,7 +8,7 @@ The implemented Ising models include:
 - the Mobius ladder graphs,
 - the rewired Mobius ladder graphs.
 
-The interaction strengths can be taken from the unweighted, bimodal, and Gaussian distributions.
+The interaction strengths can be considered unweighted or can be taken from the bimodal and Gaussian distributions.
 
 The available methods for solving the Ising model are:
 - the exact commercial solver Gurobi (the free academic license is available at 
